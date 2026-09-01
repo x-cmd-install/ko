@@ -1,0 +1,57 @@
+about:
+  description: Build and deploy Go applications
+  license: Apache-2.0
+  homepage: https://ko.build
+  head: 4297871
+  archived: false
+  latestVersion: v0.19.1
+  collectedAt: 2026-09-01T06:02:26Z
+timeline:
+  created: 2019-03-21
+  lastCommit: 2026-08-17
+  lastRelease: 2026-06-29
+popularity:
+  star: 8516
+  watcher: 40
+  fork: 447
+  release: 40
+  contributor: 112
+  pullRequest: 275
+  issue: 427
+language:
+  Go: 429248
+  Shell: 8345
+totalLine: 437593
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 5
+    openPR: 6
+    closedIssue: 0
+    openIssue: 1
+    commit: 5
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 28
+    openPR: 9
+    closedIssue: 1
+    openIssue: 3
+    commit: 31
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 78
+    openPR: 10
+    closedIssue: 6
+    openIssue: 4
+    commit: 97
+  last360d:
+    since: 2025-09-06
+    release: 3
+    mergedPR: 101
+    openPR: 11
+    closedIssue: 15
+    openIssue: 5
+    commit: 122
