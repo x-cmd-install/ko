@@ -1,11 +1,13 @@
 about:
-  description: Build and deploy Go applications
+  description:
+  |
+    Build and deploy Go applications
   license: Apache-2.0
   homepage: https://ko.build
   head: 4297871
   archived: false
   latestVersion: v0.19.1
-  collectedAt: 2026-09-03T05:29:32Z
+  collectedAt: 2026-09-03T22:34:21Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-08-17
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 429248
   Shell: 8345
-totalLine: 437593
+totalBytes: 437593
 recent:
   last30d:
     since: 2026-08-04
