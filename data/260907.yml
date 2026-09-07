@@ -5,13 +5,13 @@ about:
   head: 4297871
   archived: false
   latestVersion: "v0.19.1"
-  collectedAt: 2026-09-07T05:37:15Z
+  collectedAt: 2026-09-07T18:52:47Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-08-17
   lastRelease: 2026-06-29
 popularity:
-  star: 8515
+  star: 8516
   watcher: 41
   fork: 447
   release: 40
@@ -80,7 +80,7 @@ total:
   commit: 1435
 ---
 path: /home/runner/.x-repo/github.com/ko-build/ko
-collectedAt: 2026-09-07T05:37:20Z
+collectedAt: 2026-09-07T18:52:55Z
 loc:
   Go:
     code: 10679
@@ -126,7 +126,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:20+00:00
+  collectedAt: 2026-09-07T18:52:56+00:00
   platform:
     darwin/arm64:
       name:  ko_0.19.1_Darwin_arm64.tar.gz
