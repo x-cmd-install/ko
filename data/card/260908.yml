@@ -5,7 +5,7 @@ about:
   head: 4297871
   archived: false
   latestVersion: "v0.19.1"
-  collectedAt: 2026-09-08T02:45:24Z
+  collectedAt: 2026-09-08T05:40:22Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-08-17
@@ -80,7 +80,7 @@ total:
   commit: 1435
 ---
 path: /home/runner/.x-repo/github.com/ko-build/ko
-collectedAt: 2026-09-08T02:45:28Z
+collectedAt: 2026-09-08T05:40:28Z
 loc:
   Go:
     code: 10679
