@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.19.1"
   latestRelease: "v0.19.1"
   latestPrerelease: "v0.15.3"
-  collectedAt: 2026-09-09T05:48:09Z
+  collectedAt: 2026-09-09T20:07:47Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-29
   lastPrerelease: 2024-05-16
 popularity:
-  star: 8516
+  star: 8514
   watcher: 41
   fork: 447
   release: 40
@@ -84,7 +84,7 @@ total:
   commit: 1435
 ---
 path: /home/runner/.x-repo/github.com/ko-build/ko
-collectedAt: 2026-09-09T05:48:12Z
+collectedAt: 2026-09-09T20:07:52Z
 loc:
   Go:
     code: 10679
