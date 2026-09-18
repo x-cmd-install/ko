@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2228,
       "digest": "sha256:63e7608134e156f26e084f6f28e95698e3dd6a7ec16d9c2bf06141f52fee8dee",
-      "download_count": 3463,
+      "download_count": 3641,
       "created_at": "2026-06-29T13:56:30Z",
       "updated_at": "2026-06-29T13:56:30Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11670585,
       "digest": "sha256:a1338c4140c8c94e789733e21b161a3de177b467cd3c388b634fe1a869574509",
-      "download_count": 1687,
+      "download_count": 1706,
       "created_at": "2026-06-29T13:56:19Z",
       "updated_at": "2026-06-29T13:56:20Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12649628,
       "digest": "sha256:1b4ed52a5e506a55b085c7f106eb743ee756c776cc90fa232a539a47ad665310",
-      "download_count": 337,
+      "download_count": 341,
       "created_at": "2026-06-29T13:56:17Z",
       "updated_at": "2026-06-29T13:56:18Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11142388,
       "digest": "sha256:4099b2d1170d3b8a70e049237462efc2dd14d5fa30e9d2e5e108fb4f778cdd3f",
-      "download_count": 23695,
+      "download_count": 24281,
       "created_at": "2026-06-29T13:56:19Z",
       "updated_at": "2026-06-29T13:56:20Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11536196,
       "digest": "sha256:371d308a8cd1b6480973623c264d5428b7637c2d8986e638769155f712b1d8c3",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-06-29T13:56:19Z",
       "updated_at": "2026-06-29T13:56:19Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10338000,
       "digest": "sha256:aed49e19d9d97d2add05900936260a86b67326f5126d0abae3a86b6f89ddefbf",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-06-29T13:56:17Z",
       "updated_at": "2026-06-29T13:56:18Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_mips64le.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11114140,
       "digest": "sha256:8432f3351c4300bef7ccf1684d89608c89836974a939d58f0d0173f125a253ac",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-06-29T13:56:17Z",
       "updated_at": "2026-06-29T13:56:18Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_ppc64le.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11630545,
       "digest": "sha256:dfc6544328232656d4858ec52cebc7ee43e5bc66394f49f68329433d9699607a",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-06-29T13:56:17Z",
       "updated_at": "2026-06-29T13:56:18Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_riscv64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11898394,
       "digest": "sha256:ca274f741d499bcbb0343df2156a0f6f1943b09afdfa158e86e78e99a754ff6e",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-06-29T13:56:16Z",
       "updated_at": "2026-06-29T13:56:16Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_s390x.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12369479,
       "digest": "sha256:635ac6ea3fd376c935fee597fbb29ab2c2449f49ef1655085fe3aa9c25fed7a5",
-      "download_count": 466298,
+      "download_count": 476118,
       "created_at": "2026-06-29T13:56:16Z",
       "updated_at": "2026-06-29T13:56:16Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Linux_x86_64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12696392,
       "digest": "sha256:f70b0c9ea1874e81358a1886d478ebee9eb17d4f07e8dcaa779c4250a2aaea70",
-      "download_count": 128,
+      "download_count": 133,
       "created_at": "2026-06-29T13:56:16Z",
       "updated_at": "2026-06-29T13:56:16Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_x86_64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11670585,
       "digest": "sha256:a1338c4140c8c94e789733e21b161a3de177b467cd3c388b634fe1a869574509",
-      "download_count": 418,
+      "download_count": 419,
       "created_at": "2026-06-29T13:56:22Z",
       "updated_at": "2026-06-29T13:56:23Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_Darwin_arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 12369479,
       "digest": "sha256:635ac6ea3fd376c935fee597fbb29ab2c2449f49ef1655085fe3aa9c25fed7a5",
-      "download_count": 1947,
+      "download_count": 1982,
       "created_at": "2026-06-29T13:56:23Z",
       "updated_at": "2026-06-29T13:56:33Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/ko_Linux_x86_64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 25375,
       "digest": "sha256:efbfb21f62ec6b55c9dcdf010793518aeada66c0ec7166c5ed5250f35ecd599c",
-      "download_count": 27466,
+      "download_count": 28148,
       "created_at": "2026-06-29T13:57:29Z",
       "updated_at": "2026-06-29T13:57:30Z",
       "browser_download_url": "https://github.com/ko-build/ko/releases/download/v0.19.1/multiple.intoto.jsonl"
