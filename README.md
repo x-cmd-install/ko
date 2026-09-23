@@ -4,7 +4,7 @@
 
 Build and deploy Go applications
 
-[![x-cmd/install — ko Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ko.svg)](https://x-cmd.com/install/ko)
+[![x-cmd/install — ko Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ko.svg)](https://x-cmd.com/install/ko)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **11,644** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.19.1` (2026-06-29)
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-09-22
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 8,537 · **Forks**: 447 · **Open issues**: 427 · **Contributors**: 112
+- **Stars**: 8,543 · **Forks**: 448 · **Open issues**: 428 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 1031 · **Open PRs**: 14 · **Closed issues**: 386 · **Open issues**: 41 · **Commits**: 1435
+- **Releases**: 40 · **Merged PRs**: 1032 · **Open PRs**: 14 · **Closed issues**: 387 · **Open issues**: 41 · **Commits**: 1436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 6 | 8 | 0 | 1 | 6 |
-| 90d | 2026-06-24 | 2 | 24 | 10 | 1 | 3 | 29 |
-| last180d | 2026-03-26 | 2 | 69 | 10 | 5 | 4 | 84 |
-| 360d | 2025-09-27 | 3 | 98 | 11 | 12 | 5 | 119 |
-| last720d | 2024-10-02 | 6 | 196 | 11 | 35 | 5 | 330 |
+| 30d | 2026-08-24 | 0 | 1 | 3 | 1 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 7 | 8 | 1 | 1 | 7 |
+| 90d | 2026-06-25 | 2 | 24 | 10 | 2 | 3 | 30 |
+| last180d | 2026-03-27 | 2 | 70 | 10 | 6 | 4 | 85 |
+| 360d | 2025-09-28 | 3 | 99 | 11 | 13 | 5 | 120 |
+| last720d | 2024-10-03 | 6 | 197 | 11 | 36 | 5 | 328 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:58:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:10:03Z._
