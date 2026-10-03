@@ -33,27 +33,27 @@ Total: **11,644** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.19.1` (2026-06-29)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-10-02
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 8,558 · **Forks**: 451 · **Open issues**: 429 · **Contributors**: 113
+- **Stars**: 8,559 · **Forks**: 451 · **Open issues**: 429 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 1032 · **Open PRs**: 15 · **Closed issues**: 387 · **Open issues**: 42 · **Commits**: 1436
+- **Releases**: 40 · **Merged PRs**: 1033 · **Open PRs**: 14 · **Closed issues**: 388 · **Open issues**: 41 · **Commits**: 1437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 1 | 3 | 1 | 1 | 1 |
-| last60d | 2026-08-03 | 0 | 6 | 8 | 1 | 2 | 7 |
-| 90d | 2026-07-04 | 0 | 18 | 11 | 1 | 4 | 21 |
-| last180d | 2026-04-05 | 2 | 68 | 11 | 6 | 4 | 82 |
-| 360d | 2025-10-07 | 3 | 98 | 12 | 11 | 6 | 119 |
-| last720d | 2024-10-12 | 6 | 186 | 12 | 35 | 6 | 309 |
+| 30d | 2026-09-03 | 0 | 2 | 2 | 2 | 0 | 2 |
+| last60d | 2026-08-04 | 0 | 7 | 7 | 2 | 1 | 8 |
+| 90d | 2026-07-05 | 0 | 19 | 10 | 2 | 3 | 22 |
+| last180d | 2026-04-06 | 2 | 68 | 10 | 7 | 3 | 83 |
+| 360d | 2025-10-08 | 3 | 99 | 11 | 12 | 5 | 120 |
+| last720d | 2024-10-13 | 6 | 187 | 11 | 35 | 5 | 310 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:33:25Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:06:36Z._
