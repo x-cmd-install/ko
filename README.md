@@ -14,11 +14,11 @@ x install ko
 
 ## Code insight
 
-Total: **11,714** lines of code across **113** files in the top 5 languages.
+Total: **11,806** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,749 | 2,446 | 1,701 | 98 |
+| Go | 10,841 | 2,449 | 1,706 | 98 |
 | Svg | 742 | 1 | 1 | 4 |
 | Sh | 115 | 72 | 47 | 5 |
 | Yaml | 98 | 29 | 7 | 4 |
@@ -33,27 +33,27 @@ Total: **11,714** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.19.1` (2026-06-29)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 8,563 · **Forks**: 453 · **Open issues**: 429 · **Contributors**: 114
+- **Stars**: 8,562 · **Forks**: 453 · **Open issues**: 429 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 1039 · **Open PRs**: 13 · **Closed issues**: 388 · **Open issues**: 41 · **Commits**: 1447
+- **Releases**: 40 · **Merged PRs**: 1040 · **Open PRs**: 12 · **Closed issues**: 390 · **Open issues**: 39 · **Commits**: 1448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 8 | 2 | 2 | 0 | 12 |
-| last60d | 2026-08-09 | 0 | 12 | 6 | 2 | 1 | 17 |
-| 90d | 2026-07-10 | 0 | 19 | 7 | 2 | 3 | 24 |
-| last180d | 2026-04-11 | 2 | 71 | 9 | 7 | 3 | 89 |
-| 360d | 2025-10-13 | 3 | 103 | 10 | 12 | 5 | 127 |
-| last720d | 2024-10-18 | 6 | 190 | 10 | 35 | 5 | 313 |
+| 30d | 2026-09-09 | 0 | 9 | 1 | 2 | 0 | 13 |
+| last60d | 2026-08-10 | 0 | 12 | 5 | 2 | 1 | 18 |
+| 90d | 2026-07-11 | 0 | 20 | 6 | 2 | 3 | 25 |
+| last180d | 2026-04-12 | 2 | 72 | 8 | 7 | 3 | 90 |
+| 360d | 2025-10-14 | 3 | 104 | 9 | 14 | 3 | 128 |
+| last720d | 2024-10-19 | 6 | 191 | 9 | 37 | 3 | 314 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:58:38Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:03:15Z._
