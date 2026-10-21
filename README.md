@@ -42,18 +42,18 @@ Total: **11,806** lines of code across **113** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 1040 · **Open PRs**: 16 · **Closed issues**: 390 · **Open issues**: 39 · **Commits**: 1448
+- **Releases**: 40 · **Merged PRs**: 1040 · **Open PRs**: 16 · **Closed issues**: 391 · **Open issues**: 38 · **Commits**: 1448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 9 | 5 | 2 | 0 | 12 |
-| last60d | 2026-08-21 | 0 | 9 | 5 | 2 | 0 | 13 |
-| 90d | 2026-07-22 | 0 | 17 | 10 | 2 | 1 | 20 |
-| last180d | 2026-04-23 | 2 | 68 | 12 | 5 | 3 | 87 |
-| 360d | 2025-10-25 | 3 | 103 | 13 | 14 | 3 | 128 |
-| last720d | 2024-10-30 | 4 | 184 | 13 | 36 | 3 | 299 |
+| 30d | 2026-09-21 | 0 | 9 | 5 | 2 | 0 | 12 |
+| last60d | 2026-08-22 | 0 | 9 | 5 | 2 | 0 | 13 |
+| 90d | 2026-07-23 | 0 | 17 | 10 | 2 | 1 | 20 |
+| last180d | 2026-04-24 | 2 | 68 | 12 | 4 | 3 | 87 |
+| 360d | 2025-10-26 | 3 | 103 | 13 | 14 | 3 | 128 |
+| last720d | 2024-10-31 | 4 | 184 | 13 | 36 | 3 | 297 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:38:13Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:42:19Z._
