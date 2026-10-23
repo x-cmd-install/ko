@@ -38,7 +38,7 @@ Total: **11,806** lines of code across **113** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,572 · **Forks**: 455 · **Open issues**: 429 · **Contributors**: 115
+- **Stars**: 8,574 · **Forks**: 455 · **Open issues**: 429 · **Contributors**: 115
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **11,806** lines of code across **113** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 8 | 6 | 1 | 0 | 12 |
-| last60d | 2026-08-23 | 0 | 9 | 6 | 2 | 0 | 13 |
-| 90d | 2026-07-24 | 0 | 15 | 11 | 2 | 1 | 20 |
-| last180d | 2026-04-25 | 2 | 68 | 13 | 4 | 3 | 87 |
-| 360d | 2025-10-27 | 3 | 103 | 14 | 14 | 3 | 128 |
-| last720d | 2024-11-01 | 4 | 184 | 14 | 36 | 3 | 297 |
+| 30d | 2026-09-23 | 0 | 8 | 6 | 1 | 0 | 12 |
+| last60d | 2026-08-24 | 0 | 9 | 6 | 2 | 0 | 13 |
+| 90d | 2026-07-25 | 0 | 15 | 11 | 2 | 1 | 20 |
+| last180d | 2026-04-26 | 2 | 68 | 13 | 4 | 3 | 87 |
+| 360d | 2025-10-28 | 3 | 103 | 14 | 14 | 3 | 128 |
+| last720d | 2024-11-02 | 4 | 184 | 14 | 36 | 3 | 297 |
 
 ## Release assets
 
@@ -86,6 +86,17 @@ Total: **11,806** lines of code across **113** files in the top 5 languages.
 | [ko_Windows_x86_64.tar.gz](https://github.com/ko-build/ko/releases/download/v0.19.1/ko_Windows_x86_64.tar.gz) | 12.1 MiB | `native/win/x64` |
 | [multiple.intoto.jsonl](https://github.com/ko-build/ko/releases/download/v0.19.1/multiple.intoto.jsonl) | 24.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/ko). **10** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.19.1` | ✅ latest |
+| Homebrew | `0.19.1` | ✅ latest |
+| Nix unstable | `0.19.1` | ✅ latest |
+| Alpine edge | `0.17.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ko` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +106,4 @@ Install metadata for ko lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:41:03Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:34:25Z._
